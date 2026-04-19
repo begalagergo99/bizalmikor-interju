@@ -24,7 +24,7 @@ A frontend és a backend ebben a projektben egyszerűsítés céljából egy rep
 ```bash
 # Repository klónozása
 git clone <repo-url>
-cd bizalmikor
+cd bizalmikor-interju
 
 # Indítás (első alkalommal build-del)
 docker compose up --build
