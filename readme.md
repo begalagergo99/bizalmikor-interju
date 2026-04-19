@@ -2,6 +2,8 @@
 
 Eseménykezelő rendszer email értesítéssel. NestJS backend, React + MUI frontend, PostgreSQL adatbázis, Redis queue és Mailpit email tesztelés.
 
+A frontend és a backend ebben a projektben egyszerűsítés céljából egy repón belül, külön mappákban vannak kezelve; valós környezetben inkább két külön repóban vagy például egy NX monorepo struktúrában lennének elkülönítve.
+
 ## Technológiák
 
 | Réteg | Technológia |
